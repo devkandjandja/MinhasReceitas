@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{FB58
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{898C190F-CB83-451B-B1D8-C7FD5EEA5160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.API", "src\Backend\MinhasReceitas.API\MinhasReceitas.API.csproj", "{42B11593-F4D3-4F8D-B209-755F08EC5604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.API", "src\Backend\MinhasReceitas.API\MinhasReceitas.API.csproj", "{42B11593-F4D3-4F8D-B209-755F08EC5604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.Application", "src\Backend\MinhasReceitas.Application\MinhasReceitas.Application.csproj", "{D34D5265-47BD-4B44-8BDC-0DDBBA2182E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.Application", "src\Backend\MinhasReceitas.Application\MinhasReceitas.Application.csproj", "{D34D5265-47BD-4B44-8BDC-0DDBBA2182E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.Domain", "src\Backend\MinhasReceitas.Domain\MinhasReceitas.Domain.csproj", "{7239322D-5A97-44DA-8B18-932411CE375F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.Domain", "src\Backend\MinhasReceitas.Domain\MinhasReceitas.Domain.csproj", "{7239322D-5A97-44DA-8B18-932411CE375F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.Infra", "src\Backend\MinhasReceitas.Infra\MinhasReceitas.Infra.csproj", "{9E65A9BC-E9D1-410F-950D-7203483DD246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.Infra", "src\Backend\MinhasReceitas.Infra\MinhasReceitas.Infra.csproj", "{9E65A9BC-E9D1-410F-950D-7203483DD246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.Communication", "src\Shared\MinhasReceitas.Communication\MinhasReceitas.Communication.csproj", "{C546B8F1-4286-456A-BB10-E8D829847226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.Communication", "src\Shared\MinhasReceitas.Communication\MinhasReceitas.Communication.csproj", "{C546B8F1-4286-456A-BB10-E8D829847226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhasReceitas.Exceptions", "src\Shared\MinhasReceitas.Exceptions\MinhasReceitas.Exceptions.csproj", "{8F06180A-E997-4F10-A5B6-1624E3946EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinhasReceitas.Exceptions", "src\Shared\MinhasReceitas.Exceptions\MinhasReceitas.Exceptions.csproj", "{8F06180A-E997-4F10-A5B6-1624E3946EE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
